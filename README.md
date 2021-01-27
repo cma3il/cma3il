@@ -13,7 +13,7 @@
 </a>
 <a href="https://open.spotify.com/user/22kjzlm2zprovtrc3bsg63nbi?si=zvFr4l2MQxqIc-FzFQ3mgg">
   <img align="left" alt="cma3il's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a><br>
 
 <br>
 
