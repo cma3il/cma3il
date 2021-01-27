@@ -1,17 +1,17 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discordapp.com/users/616392966033899541">
+<a href="https://discordapp.com/users/616392966033899541" target="_blank" >
   <img align="left" alt="cma3il's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://facebook.com/cma3il">
+<a href="https://facebook.com/cma3il" target="_blank" >
   <img align="left" alt="Mly Ismail El Hadraoui" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/cma3il_">
+<a href="https://www.instagram.com/cma3il_" target="_blank" >
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hadraoui/">
+<a href="https://www.linkedin.com/in/hadraoui/" target="_blank" >
   <img align="left" alt="cma3il's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/22kjzlm2zprovtrc3bsg63nbi?si=zvFr4l2MQxqIc-FzFQ3mgg">
+<a href="https://open.spotify.com/user/22kjzlm2zprovtrc3bsg63nbi?si=zvFr4l2MQxqIc-FzFQ3mgg" target="_blank" >
   <img align="left" alt="cma3il's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a><br>
 
