@@ -1,23 +1,23 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discordapp.com/users/616392966033899541">
-  <img align="left" alt="cma3il's Discord" width="22px" src="https://raw.githubusercontent.com/cma3il/cma3il/master/assets/discord.svg" />
+  <img align="left" alt="cma3il's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://facebook.com/cma3il">
-  <img align="left" alt="@cma3il_ | Twitter" width="22px" src="https://raw.githubusercontent.com/cma3il/cma3il/master/assets/facebook.svg" />
+  <img align="left" alt="Mly Ismail El Hadraoui" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/cma3il_">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/cma3il/cma3il/master/assets/instagram.svg" />
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hadraoui/">
-  <img align="left" alt="cma3il's LinkedIN" width="22px" src="https://raw.githubusercontent.com/cma3il/cma3il/master/assets/linkedin.svg" />
+  <img align="left" alt="cma3il's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/22kjzlm2zprovtrc3bsg63nbi?si=zvFr4l2MQxqIc-FzFQ3mgg">
-  <img align="left" alt="cma3il's Spotify" width="22px" src="https://raw.githubusercontent.com/cma3il/cma3il/master/assets/spotify.svg" />
+  <img align="left" alt="cma3il's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<br />
+<br>
 
-Hi, I'm [Ismail!](https://blog.abhisheknaidu.tech/), a passionate self-taught Developer 🚀 from Morocco.
+Hi, I'm [Ismail!](https://cma3il.github.io), a passionate self-taught Developer 🚀 from Morocco.
 
 
 - 🔭 I’m currently studying for my master's degree
