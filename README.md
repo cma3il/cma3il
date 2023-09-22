@@ -18,8 +18,8 @@
 Hi, I'm [Ismail!](https://cma3il.github.io), a passionate Cybersecurity enthusiast from Morocco. 🚀
 
 
-- 🎓 I’m currently studying for my master's degree
-- 🌱 I’m currently learning Flutter
+- 🎓 I am a PhD student @ ENSIAS, Morocco
+- 🌱 Currently learning pentesting
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 Reach me @ [hadraoui98@gmail.com](mailto:hadraoui98@gmail.com)
 
